@@ -1,0 +1,6 @@
+C:\Training\Projects\RpgGame\Engine\bin\Debug\Engine.dll
+C:\Training\Projects\RpgGame\Engine\bin\Debug\Engine.pdb
+C:\Training\Projects\RpgGame\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Training\Projects\RpgGame\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Training\Projects\RpgGame\Engine\obj\Debug\Engine.dll
+C:\Training\Projects\RpgGame\Engine\obj\Debug\Engine.pdb
