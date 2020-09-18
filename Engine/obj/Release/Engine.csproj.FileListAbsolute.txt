@@ -1,0 +1,5 @@
+C:\Training\Projects\RpgGame\Engine\bin\Release\Engine.dll
+C:\Training\Projects\RpgGame\Engine\bin\Release\Engine.pdb
+C:\Training\Projects\RpgGame\Engine\obj\Release\Engine.csproj.CoreCompileInputs.cache
+C:\Training\Projects\RpgGame\Engine\obj\Release\Engine.dll
+C:\Training\Projects\RpgGame\Engine\obj\Release\Engine.pdb

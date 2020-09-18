@@ -61,7 +61,6 @@
             this.label1.Size = new System.Drawing.Size(55, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Hit Points:";
-           // this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -224,6 +223,7 @@
             this.rtbMessages.Size = new System.Drawing.Size(360, 286);
             this.rtbMessages.TabIndex = 18;
             this.rtbMessages.Text = "";
+            this.rtbMessages.TextChanged += new System.EventHandler(this.rtbMessages_TextChanged);
             // 
             // dgvInventory
             // 
@@ -285,7 +285,6 @@
             this.Controls.Add(this.label1);
             this.Name = "SuperAdventure";
             this.Text = "MyGame";
-           // this.Load += new System.EventHandler(this.SuperAdventure_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvInventory)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvQuests)).EndInit();
             this.ResumeLayout(false);

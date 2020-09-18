@@ -1,0 +1,13 @@
+C:\Training\Projects\RpgGame\SuperAdventure\bin\Release\SuperAdventure.exe.config
+C:\Training\Projects\RpgGame\SuperAdventure\bin\Release\SuperAdventure.exe
+C:\Training\Projects\RpgGame\SuperAdventure\bin\Release\SuperAdventure.pdb
+C:\Training\Projects\RpgGame\SuperAdventure\bin\Release\Engine.dll
+C:\Training\Projects\RpgGame\SuperAdventure\bin\Release\Engine.pdb
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.csprojAssemblyReference.cache
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.Properties.Resources.resources
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.SuperAdventure.resources
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.csproj.GenerateResource.cache
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.csproj.CopyComplete
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.exe
+C:\Training\Projects\RpgGame\SuperAdventure\obj\Release\SuperAdventure.pdb

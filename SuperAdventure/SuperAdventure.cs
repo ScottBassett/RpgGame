@@ -14,7 +14,7 @@ namespace SuperAdventure
 {
     public partial class SuperAdventure : Form
     {
-        private Player _player;
+        private readonly Player _player;
         private Monster _currentMonster;
 
         public SuperAdventure()
@@ -456,6 +456,12 @@ namespace SuperAdventure
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             UpdateInventoryListInUI();
             UpdatePotionListInUI();
+        }
+
+        private void rtbMessages_TextChanged(object sender, EventArgs e)
+        {
+            rtbMessages.SelectionStart = rtbMessages.Text.Length;
+            rtbMessages.ScrollToCaret();
         }
     }
 }
